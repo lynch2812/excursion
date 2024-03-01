@@ -3,10 +3,25 @@ body{
     text-align:center;
 }
 
-h1 {
+h1,h2,p {
 font-family:verdana;
 font-weight: normal;
 font-size:3.125rem;
 color:white;
 text-align: center;
  }
+ p{
+  font-size: 1.313rem;  
+ }
+
+#content_link-download {
+    color:aquamarine;
+    font-size:1rem;
+}
+.main_video {
+height:35rem;
+}
+.heading_section2 {
+font-weight: 300;
+font-size:2.625rem;
+}
