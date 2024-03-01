@@ -20,6 +20,7 @@ text-align: center;
 #content_link-download {
     color:aquamarine;
     font-size:1rem;
+    cursor:pointer;
 }
 .main_video {
 height:35rem;
