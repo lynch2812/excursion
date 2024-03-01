@@ -11,7 +11,8 @@ color:white;
 text-align: center;
  }
  p{
-  font-size: 1.313rem;  
+  font-size: 1.313rem;
+  color:grey;  
  }
 
 #content_link-download {
@@ -24,4 +25,8 @@ height:35rem;
 .heading_section2 {
 font-weight: 300;
 font-size:2.625rem;
+}
+.art_content_img {
+ width:80%;
+   
 }
