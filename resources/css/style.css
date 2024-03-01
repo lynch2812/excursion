@@ -36,3 +36,7 @@ font-size:2.625rem;
 .art_icon_phne{
     height:4rem;
 }
+.footer_copyright{
+    text-align: right;
+    color:gray;
+}
